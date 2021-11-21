@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'dotNetCoreRk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73629C3C644747B59AD0EBFD0D9B2BAD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C6BCD3A7B9045B1939EF19A1F17A76A }}
           package: .
